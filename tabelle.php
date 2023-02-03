@@ -1,5 +1,5 @@
 <html> <!-- Start HTML -->
-<head> <!-- Start HTML-Kopf -->
+<head> <!-- Start HTML-Kopf  -->
 <!-- CSS-Formatierung für die Tabelle -->
 <style type="text/css">
 table {
